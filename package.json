@@ -12,5 +12,8 @@
   "license": "ISC",
   "devDependencies": {
     "vuepress": "^2.0.0-beta.26"
+  },
+  "dependencies": {
+    "ivy-ui": "^0.8.2"
   }
 }
